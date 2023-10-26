@@ -1,0 +1,27 @@
+
+.social-button {
+   position: relative;
+   top: 300px;
+   left: 500px;
+    background-color: #0a0405;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 5px ;
+    margin: 1px;
+    cursor: pointer;
+
+
+    
+  }
+  
+  .social-button i {
+    margin-right: 3px;
+  }
+  .mt-5{
+    position: relative;
+    top: 270px;
+    left: 480px;
+    font-size: 70px;
+  }
+  

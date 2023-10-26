@@ -1,0 +1,9 @@
+div{
+    position: relative;
+    box: 150px;
+    top: 20px;
+}
+.noti{
+    position: relative;
+    left: 250px;
+}

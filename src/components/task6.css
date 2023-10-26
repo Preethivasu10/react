@@ -1,0 +1,57 @@
+
+.login-form {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #cf0ae9;
+    position: relative;
+    top: 80px;
+
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+  }
+  
+  input[type="email"],
+  input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .forgot-password,
+  .create-account {
+    margin-top: 10px;
+    text-align: center;
+  }
+body{
+    background-image: url(https://img.freepik.com/premium-photo/stage-with-purple-blue-light-it_14117-9408.jpg );
+background-size: cover;
+background-repeat: no-repeat;
+}
+.login{
+    
+}
+  
